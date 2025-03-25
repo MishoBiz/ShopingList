@@ -1,0 +1,9 @@
+D:\Coding\ShopingList\obj\Debug\net8.0\ShopingList.csproj.AssemblyReference.cache
+D:\Coding\ShopingList\obj\Debug\net8.0\ShopingList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\ShopingList\obj\Debug\net8.0\ShopingList.AssemblyInfoInputs.cache
+D:\Coding\ShopingList\obj\Debug\net8.0\ShopingList.AssemblyInfo.cs
+D:\Coding\ShopingList\obj\Debug\net8.0\ShopingList.csproj.CoreCompileInputs.cache
+D:\Coding\ShopingList\obj\Debug\net8.0\ShopingList.MvcApplicationPartsAssemblyInfo.cs
+D:\Coding\ShopingList\obj\Debug\net8.0\ShopingList.MvcApplicationPartsAssemblyInfo.cache
+D:\Coding\ShopingList\obj\Debug\net8.0\ShopingList.RazorAssemblyInfo.cache
+D:\Coding\ShopingList\obj\Debug\net8.0\ShopingList.RazorAssemblyInfo.cs

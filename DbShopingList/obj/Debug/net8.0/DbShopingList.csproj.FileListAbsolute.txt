@@ -1,0 +1,5 @@
+D:\Coding\ShopingList\DbShopingList\obj\Debug\net8.0\DbShopingList.csproj.AssemblyReference.cache
+D:\Coding\ShopingList\DbShopingList\obj\Debug\net8.0\DbShopingList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\ShopingList\DbShopingList\obj\Debug\net8.0\DbShopingList.AssemblyInfoInputs.cache
+D:\Coding\ShopingList\DbShopingList\obj\Debug\net8.0\DbShopingList.AssemblyInfo.cs
+D:\Coding\ShopingList\DbShopingList\obj\Debug\net8.0\DbShopingList.csproj.CoreCompileInputs.cache
